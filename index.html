@@ -242,6 +242,16 @@
                 transform: scale(0.97);
             }
 
+            .btn-download-secondary {
+                background: var(--format-tag-bg);
+                color: var(--black);
+                border: 1.5px solid var(--border);
+            }
+
+            .btn-download-secondary:hover {
+                background: var(--border);
+            }
+
             .hero-platforms {
                 font-size: 0.85rem;
                 color: var(--gray-light);
@@ -611,11 +621,25 @@
                     to use. Native app for macOS and Linux.
                 </p>
                 <div class="hero-actions">
-                    <a href="#download" class="btn-download">
+                    <a
+                        href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg"
+                        class="btn-download"
+                    >
                         ↓ Download for macOS
                     </a>
-                    <span class="hero-platforms">macOS · Linux (GTK4)</span>
                 </div>
+                <p class="hero-platforms">
+                    Also available for
+                    <a
+                        href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak"
+                        style="
+                            color: inherit;
+                            text-decoration: underline;
+                            text-underline-offset: 3px;
+                        "
+                        >Linux (GTK4/Adwaita)</a
+                    >
+                </p>
             </div>
         </section>
 
@@ -819,7 +843,25 @@
             <div class="container">
                 <h2>Download ComicsFit</h2>
                 <p>Free to use. 20 MB. No account needed.</p>
-                <a href="#" class="btn-download">↓ Download for macOS</a>
+                <div
+                    style="
+                        display: flex;
+                        gap: 12px;
+                        flex-wrap: wrap;
+                        justify-content: center;
+                    "
+                >
+                    <a
+                        href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg"
+                        class="btn-download"
+                        >↓ Download for macOS</a
+                    >
+                    <a
+                        href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak"
+                        class="btn-download btn-download-secondary"
+                        >↓ Download for Linux</a
+                    >
+                </div>
                 <p
                     style="
                         margin-top: 16px;
