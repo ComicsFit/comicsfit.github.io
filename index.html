@@ -13,12 +13,12 @@
             content="comic converter, cbz optimizer, cbr to kepub, manga e-reader, kobo comics, kindle comics, comic book optimizer, cbz compressor, epub converter, comicsfit"
         />
         <meta name="author" content="ComicsFit" />
-        <link rel="canonical" href="https://comicsfit.app/" />
+        <link rel="canonical" href="https://comicsfit.github.io/" />
 
         <!-- Open Graph -->
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="ComicsFit" />
-        <meta property="og:url" content="https://comicsfit.app/" />
+        <meta property="og:url" content="https://comicsfit.github.io/" />
         <meta
             property="og:title"
             content="ComicsFit: Optimize Comics &amp; Manga for Any E-Reader"
@@ -29,7 +29,7 @@
         />
         <meta
             property="og:image"
-            content="https://comicsfit.app/screenshot_macos_01.png"
+            content="https://comicsfit.github.io/screenshot_macos_01.png"
         />
         <meta property="og:image:width" content="1320" />
         <meta property="og:image:height" content="860" />
@@ -50,7 +50,7 @@
         />
         <meta
             name="twitter:image"
-            content="https://comicsfit.app/screenshot_macos_01.png"
+            content="https://comicsfit.github.io/screenshot_macos_01.png"
         />
 
         <link rel="icon" type="image/png" href="icon_rounded.png" />
@@ -418,6 +418,8 @@
                 border: 1px solid var(--border);
                 border-radius: 10px;
                 padding: 28px;
+                display: flex;
+                flex-direction: column;
             }
 
             .pricing-card.featured {
@@ -442,12 +444,6 @@
                 margin-bottom: 4px;
             }
 
-            .pricing-price sup {
-                font-size: 1rem;
-                vertical-align: super;
-                font-weight: 700;
-            }
-
             .pricing-note {
                 font-size: 0.8rem;
                 color: var(--gray-light);
@@ -456,6 +452,7 @@
 
             .pricing-features {
                 list-style: none;
+                padding-bottom: 20px;
                 display: flex;
                 flex-direction: column;
                 gap: 8px;
@@ -488,8 +485,9 @@
             .btn-pricing {
                 display: block;
                 width: 100%;
-                text-align: center;
+                margin-top: auto;
                 padding: 10px 16px;
+                text-align: center;
                 border-radius: 7px;
                 font-size: 0.88rem;
                 font-weight: 700;
@@ -622,15 +620,17 @@
                 </p>
                 <div class="hero-actions">
                     <a
+                        id="btn-download-primary"
                         href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg"
                         class="btn-download"
                     >
                         ↓ Download for macOS
                     </a>
                 </div>
-                <p class="hero-platforms">
+                <p id="hero-platforms" class="hero-platforms">
                     Also available for
                     <a
+                        id="btn-download-secondary"
                         href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak"
                         style="
                             color: inherit;
@@ -640,6 +640,39 @@
                         >Linux (GTK4/Adwaita)</a
                     >
                 </p>
+                <script>
+                    (function () {
+                        var isLinux = false;
+                        if (navigator.userAgentData) {
+                            isLinux =
+                                navigator.userAgentData.platform === "Linux";
+                        } else {
+                            isLinux =
+                                /Linux/.test(navigator.userAgent) &&
+                                !/Android/.test(navigator.userAgent);
+                        }
+                        if (isLinux) {
+                            var primary = document.getElementById(
+                                "btn-download-primary",
+                            );
+                            primary.href =
+                                "https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak";
+                            primary.textContent = "↓ Download for Linux";
+
+                            var secondary = document.getElementById(
+                                "btn-download-secondary",
+                            );
+                            secondary.href =
+                                "https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg";
+                            secondary.textContent = "macOS";
+
+                            var platforms =
+                                document.getElementById("hero-platforms");
+                            platforms.firstChild.textContent =
+                                "Also available for\u00a0";
+                        }
+                    })();
+                </script>
             </div>
         </section>
 
@@ -648,12 +681,36 @@
             <div class="container">
                 <div class="screenshot-wrap">
                     <img
+                        id="hero-screenshot"
                         src="screenshot_macos_01.png"
                         alt="ComicsFit app showing 5 CBZ files being optimized for a Kobo Libra Color, with 90% file size reduction"
                         width="1320"
                         height="860"
                     />
                 </div>
+                <script>
+                    (function () {
+                        var isLinux = false;
+                        if (navigator.userAgentData) {
+                            // Modern API — platform is synchronous
+                            isLinux =
+                                navigator.userAgentData.platform === "Linux";
+                        } else {
+                            isLinux =
+                                /Linux/.test(navigator.userAgent) &&
+                                !/Android/.test(navigator.userAgent);
+                        }
+                        if (isLinux) {
+                            var img =
+                                document.getElementById("hero-screenshot");
+                            img.src = "screenshot_linux_02.png";
+                            img.alt =
+                                "ComicsFit on Linux showing batch conversion in progress with multiple files";
+                            img.width = 1690;
+                            img.height = 1200;
+                        }
+                    })();
+                </script>
             </div>
         </section>
 
@@ -768,7 +825,7 @@
         <section class="section" id="pricing">
             <div class="container">
                 <div class="section-label">Pricing</div>
-                <h2>Free to use.<br />Unlock batch for $9.</h2>
+                <h2>Free to use.<br />Unlock batch for €9.</h2>
                 <p class="section-intro">
                     The full conversion engine is free. Unlock the queue to
                     process your entire collection in one go.
@@ -777,7 +834,7 @@
                 <div class="pricing-grid">
                     <div class="pricing-card">
                         <div class="pricing-name">Free</div>
-                        <div class="pricing-price">$0</div>
+                        <div class="pricing-price">€0</div>
                         <div class="pricing-note">Free forever</div>
                         <ul class="pricing-features">
                             <li>
@@ -809,7 +866,7 @@
 
                     <div class="pricing-card featured">
                         <div class="pricing-name">License Key</div>
-                        <div class="pricing-price"><sup>$</sup>9</div>
+                        <div class="pricing-price">€9</div>
                         <div class="pricing-note">
                             One-time payment · yours forever
                         </div>
@@ -830,8 +887,10 @@
                                 development
                             </li>
                         </ul>
-                        <a href="#" class="btn-pricing btn-pricing-paid"
-                            >Buy License Key for $9</a
+                        <a
+                            href="https://comicsfit.lemonsqueezy.com/checkout/buy/5fc6d439-d0cf-430f-9fc1-f12593b3ce5b?embed=1"
+                            class="btn-pricing btn-pricing-paid lemonsqueezy-button"
+                            >Buy License Key for €9</a
                         >
                     </div>
                 </div>
@@ -852,17 +911,20 @@
                     "
                 >
                     <a
+                        id="cta-btn-primary"
                         href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg"
                         class="btn-download"
                         >↓ Download for macOS</a
                     >
                     <a
+                        id="cta-btn-secondary"
                         href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak"
                         class="btn-download btn-download-secondary"
                         >↓ Download for Linux</a
                     >
                 </div>
                 <p
+                    id="cta-platforms"
                     style="
                         margin-top: 16px;
                         font-size: 0.82rem;
@@ -871,6 +933,63 @@
                 >
                     macOS (Apple Silicon) · Linux GTK4/Adwaita
                 </p>
+                <p
+                    id="cta-macos-warning"
+                    style="
+                        margin-top: 12px;
+                        font-size: 0.8rem;
+                        color: var(--gray-light);
+                        max-width: 480px;
+                        margin-left: auto;
+                        margin-right: auto;
+                        line-height: 1.6;
+                    "
+                >
+                    ⚠️ <strong>macOS security warning:</strong> ComicsFit is not
+                    yet notarized by Apple. On first launch, right-click the app
+                    → <em>Open</em>, then click <em>Open</em> in the dialog. If
+                    macOS blocks it, go to
+                    <strong>System Settings → Privacy &amp; Security</strong>
+                    and click <em>"Open Anyway"</em>. You only need to do this
+                    once.
+                </p>
+                <script>
+                    (function () {
+                        var isLinux = false;
+                        if (navigator.userAgentData) {
+                            isLinux =
+                                navigator.userAgentData.platform === "Linux";
+                        } else {
+                            isLinux =
+                                /Linux/.test(navigator.userAgent) &&
+                                !/Android/.test(navigator.userAgent);
+                        }
+                        if (isLinux) {
+                            var primary =
+                                document.getElementById("cta-btn-primary");
+                            primary.href =
+                                "https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak";
+                            primary.textContent = "↓ Download for Linux";
+                            primary.classList.remove("btn-download-secondary");
+
+                            var secondary =
+                                document.getElementById("cta-btn-secondary");
+                            secondary.href =
+                                "https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg";
+                            secondary.textContent = "↓ Download for macOS";
+                            secondary.classList.add("btn-download-secondary");
+
+                            document.getElementById(
+                                "cta-platforms",
+                            ).textContent =
+                                "Linux GTK4/Adwaita · macOS (Apple Silicon)";
+
+                            document.getElementById(
+                                "cta-macos-warning",
+                            ).style.display = "none";
+                        }
+                    })();
+                </script>
             </div>
         </section>
 
@@ -878,18 +997,7 @@
         <footer>
             <div class="container">
                 <div class="footer-inner">
-                    <span class="footer-copy">© 2025 ComicsFit</span>
-                    <ul class="footer-links">
-                        <li>
-                            <a
-                                href="https://github.com"
-                                target="_blank"
-                                rel="noopener"
-                                >GitHub</a
-                            >
-                        </li>
-                        <li><a href="#pricing">Pricing</a></li>
-                    </ul>
+                    <span class="footer-copy">© 2026 ComicsFit</span>
                 </div>
             </div>
         </footer>
@@ -901,19 +1009,19 @@
                 "applicationCategory": "UtilitiesApplication",
                 "operatingSystem": "macOS, Linux",
                 "description": "Compress and optimize CBZ, CBR, EPUB and KEPUB comic archives for Kobo, Kindle, reMarkable and more. Native app for macOS and Linux.",
-                "url": "https://comicsfit.app/",
-                "screenshot": "https://comicsfit.app/screenshot_macos_01.png",
+                "url": "https://comicsfit.github.io/",
+                "screenshot": "https://comicsfit.github.io/screenshot_macos_01.png",
                 "offers": [
                     {
                         "@type": "Offer",
                         "price": "0",
-                        "priceCurrency": "USD",
+                        "priceCurrency": "EUR",
                         "name": "Free"
                     },
                     {
                         "@type": "Offer",
                         "price": "9",
-                        "priceCurrency": "USD",
+                        "priceCurrency": "EUR",
                         "name": "License Key",
                         "description": "One-time payment unlocking batch queue for processing entire collections"
                     }
@@ -934,5 +1042,6 @@
                 }
             }
         </script>
+        <script src="https://assets.lemonsqueezy.com/lemon.js" defer></script>
     </body>
 </html>
