@@ -1,23 +1,23 @@
-// Linux visitors get Linux download links and screenshots first.
+// Visitors get download links and screenshots for their operating system.
 //
-// Elements marked with `data-linux` declare their Linux variant through
-// `data-linux-*` attributes:
-//   data-linux-text="..."   -> replaces the text content
-//   data-linux-hidden       -> hides the element
-//   data-linux-<attr>="..." -> sets <attr> (href, src, srcset, alt, class, ...)
+// data-linux-* and data-windows-* attributes provide platform variants.
+// The text variant replaces text content, hidden hides the element, and
+// other variants set the corresponding HTML attribute.
 (function () {
     var ua = navigator.userAgent;
 
     // Crawlers render pages on Linux: always show them the default content.
     if (/bot|crawl|spider|slurp|lighthouse|inspectiontool/i.test(ua)) return;
 
-    var isLinux = navigator.userAgentData
-        ? navigator.userAgentData.platform === "Linux"
-        : /Linux/.test(ua) && !/Android/.test(ua);
-    if (!isLinux) return;
+    var platform = navigator.userAgentData && navigator.userAgentData.platform;
+    var os = platform === "Windows" || (!platform && /Windows NT/.test(ua))
+        ? "windows"
+        : platform === "Linux" || (!platform && /Linux/.test(ua) && !/Android/.test(ua))
+            ? "linux" : null;
+    if (!os) return;
 
-    var prefix = "data-linux-";
-    document.querySelectorAll("[data-linux]").forEach(function (el) {
+    var prefix = "data-" + os + "-";
+    document.querySelectorAll("[data-" + os + "]").forEach(function (el) {
         var attrs = Array.prototype.filter.call(el.attributes, function (a) {
             return a.name.indexOf(prefix) === 0;
         });

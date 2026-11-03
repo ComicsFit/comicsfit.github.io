@@ -214,17 +214,28 @@
     <h2>Download ComicsFit</h2>
     <p>Free to use. 4 MB. No account needed.</p>
     <div class="cta-buttons">
-      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" class="btn-download" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" data-linux-text="↓ Download for Linux">
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" class="btn-download" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" data-linux-text="↓ Download for Linux" data-windows data-windows-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-x64.exe" data-windows-text="↓ Download for Windows (x64)">
         ↓ Download for macOS
       </a>
       <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" class="btn-download btn-download-secondary" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" data-linux-text="↓ Download for macOS">
         ↓ Download for Linux
       </a>
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-x64.exe" class="btn-download btn-download-secondary" data-windows data-windows-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" data-windows-text="↓ Download for macOS">
+        ↓ Download for Windows (x64)
+      </a>
     </div>
-    <p class="cta-platforms" data-linux data-linux-text="Linux GTK4/Adwaita · macOS (Apple Silicon)">
-      macOS (Apple Silicon) · Linux GTK4/Adwaita
+    <p class="cta-platforms">
+      Windows on ARM? <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-arm64.exe" class="inline-link">Download for ARM64</a>
     </p>
-    <p class="cta-warning" data-linux data-linux-hidden>
+    <p class="cta-platforms" data-linux data-linux-text="Linux GTK4/Adwaita · macOS (Apple Silicon) · Windows 10/11 (x64 and ARM64)" data-windows data-windows-text="Windows 10/11 (x64 and ARM64) · macOS (Apple Silicon) · Linux GTK4/Adwaita">
+      macOS (Apple Silicon) · Linux GTK4/Adwaita · Windows 10/11 (x64 and ARM64)
+    </p>
+    <p class="cta-platforms">
+      Windows needs the
+      <a href="https://dotnet.microsoft.com/download/dotnet/10.0" class="inline-link">.NET Desktop Runtime 10</a>
+      or later. If it is missing, Windows offers to download it when you open ComicsFit.
+    </p>
+    <p class="cta-warning" data-linux data-linux-hidden data-windows data-windows-hidden>
       ⚠️ <strong>macOS security warning:</strong>
       ComicsFit is not yet notarized by Apple. On first launch, right-click the app
       → <em>Open</em>, then click <em>Open</em>
