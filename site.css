@@ -532,6 +532,10 @@ footer {
     border-left: 3px solid var(--border);
 }
 
+.contact-email {
+    overflow-wrap: anywhere;
+}
+
 /* ── Steps ── */
 .steps {
     padding-left: 22px;
