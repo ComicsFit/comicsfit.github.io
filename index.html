@@ -29,7 +29,7 @@
     </script>
     <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"ComicsFit","url":"https:\/\/comicsfit.app\/"}</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"SoftwareApplication","applicationCategory":"UtilitiesApplication","description":"Convert and compress CBZ, CBR and EPUB comics and manga for Kindle, Kobo and reMarkable. Free native app for macOS, Linux and Windows.","downloadUrl":["https:\/\/github.com\/ComicsFit\/comicsfit.github.io\/releases\/latest\/download\/ComicsFit-macos.dmg","https:\/\/github.com\/ComicsFit\/comicsfit.github.io\/releases\/latest\/download\/comicsfit-linux.flatpak","https:\/\/github.com\/ComicsFit\/comicsfit.github.io\/releases\/latest\/download\/ComicsFit-windows-x64.exe","https:\/\/github.com\/ComicsFit\/comicsfit.github.io\/releases\/latest\/download\/ComicsFit-windows-arm64.exe"],"featureList":["CBZ, CBR, EPUB, KEPUB input","KEPUB, EPUB, CBZ, AZW3, PDF output","Presets for Kindle, Kobo and reMarkable devices","Smart image compression","Manga mode (right-to-left)","Trim borders","Black & white conversion","Batch processing queue"],"fileSize":"4MB","image":"https:\/\/comicsfit.app\/icon_rounded.png","name":"ComicsFit","offers":[{"@type":"Offer","name":"Free","price":"0","priceCurrency":"EUR"},{"@type":"Offer","description":"One-time payment unlocking the batch queue for processing entire collections","name":"License Key","price":"9","priceCurrency":"EUR"}],"operatingSystem":"macOS, Linux, Windows 10, Windows 11","publisher":{"@type":"Organization","name":"ComicsFit","url":"https:\/\/comicsfit.app\/"},"screenshot":"https:\/\/comicsfit.app\/screenshot_macos_01.png","url":"https:\/\/comicsfit.app\/"}</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Yes. Every format, device preset and option is free, one file at a time. A one-time €9 license unlocks the batch queue so you can convert a whole collection in one go."},"name":"Is ComicsFit free?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"KEPUB for Kobo, AZW3 for Kindle and PDF for reMarkable. Pick your device in ComicsFit and it only shows the formats that work on it, with the best one selected."},"name":"Which format should I use for my e-reader?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Yes. Turn on manga mode and ComicsFit sets right-to-left page order in KEPUB (Kobo) and AZW3 (Kindle) files, so swiping goes the way the manga was drawn."},"name":"Can I read manga right-to-left?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"It depends on the source, but scans are often much bigger than an e-reader screen. Resizing to the exact screen resolution and recompressing commonly saves 50 to 90%, with no visible difference on the device."},"name":"How much smaller do the files get?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"No. ComicsFit is a desktop app and every conversion runs on your computer. No account, no upload."},"name":"Are my comics uploaded anywhere?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Yes. Download the portable app for Windows 10\/11, for x64 or ARM64 PCs. It needs the .NET Desktop Runtime 10 or later. Windows offers to download it on first launch if it is missing."},"name":"Does ComicsFit work on Windows?"}]}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Yes. Every format, device preset and option is free, one file at a time. A one-time €9 license unlocks the batch queue so you can convert a whole collection in one go."},"name":"Is ComicsFit free?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"KEPUB for Kobo, AZW3 for Kindle and PDF for reMarkable. Pick your device in ComicsFit and it only shows the formats that work on it, with the best one selected."},"name":"Which format should I use for my e-reader?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Yes. Turn on manga mode and ComicsFit sets right-to-left page order in KEPUB (Kobo) and AZW3 (Kindle) files, so swiping goes the way the manga was drawn."},"name":"Can I read manga right-to-left?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"It depends on the source, but scans are often much bigger than an e-reader screen. Resizing to the exact screen resolution and recompressing commonly saves 50 to 90%, with no visible difference on the device."},"name":"How much smaller do the files get?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"No. ComicsFit is a desktop app and every conversion runs on your computer. No account, no upload."},"name":"Are my comics uploaded anywhere?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"ComicsFit writes Kindle AZW3 files itself, so you don't need Amazon's Kindle Previewer (about 1 GB) for KindleGen. It's a 4 MB native app with fewer, simpler settings. KCC has more advanced options and is fully free and open source."},"name":"How is ComicsFit different from Kindle Comic Converter (KCC)?"}]}</script>
   </head>
   <body>
     <header class="site-header">
@@ -80,7 +80,7 @@
     <p class="section-intro">
       Compress, resize and optimize comic archives for your
       e-reader. Pick your device, pick your output format, hit
-      Optimize.
+      Convert.
     </p>
 
     <ul class="feature-list">
@@ -118,7 +118,11 @@
       </li>
       <li>
         <strong>Truly native</strong>
-        <span>Built with Swift on macOS, GTK4/Adwaita on Linux and WPF on Windows. About 4 MB to download.</span>
+        <span>
+          Built with Swift on macOS, GTK4/Adwaita on Linux and WPF on Windows. About 4 MB to download,
+          and Kindle files need no extra Amazon software
+          (<a href="/kindle-comic-converter-alternative/">compared with KCC</a>).
+        </span>
       </li>
     </ul>
   </div>
@@ -206,6 +210,7 @@
     <p class="devices-more">
       Any other device: set a custom resolution and pick any output format.
       <a href="/devices/" class="inline-link">See all supported devices</a>
+      or <a href="/guides/" class="inline-link">read the guides</a>.
     </p>
   </div>
 </section>
@@ -274,8 +279,8 @@
         <h3>Are my comics uploaded anywhere?</h3>
         <p>No. ComicsFit is a desktop app and every conversion runs on your computer. No account, no upload.</p>
       </div><div class="faq-item">
-        <h3>Does ComicsFit work on Windows?</h3>
-        <p>Yes. Download the portable app for Windows 10/11, for x64 or ARM64 PCs. It needs the .NET Desktop Runtime 10 or later. Windows offers to download it on first launch if it is missing.</p>
+        <h3>How is ComicsFit different from Kindle Comic Converter (KCC)?</h3>
+        <p>ComicsFit writes Kindle AZW3 files itself, so you don&#39;t need Amazon&#39;s Kindle Previewer (about 1 GB) for KindleGen. It&#39;s a 4 MB native app with fewer, simpler settings. KCC has more advanced options and is fully free and open source.</p>
       </div>
     </div>
   </div>
@@ -382,6 +387,13 @@
           <li><a href="/#pricing">Pricing</a></li>
           <li><a href="/#faq">FAQ</a></li>
           <li><a href="/#download">Download</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-heading">Guides</div>
+        <ul>
+          <li><a href="/guides/cbz-to-azw3/">CBZ to AZW3 for Kindle</a></li><li><a href="/guides/manga-on-kindle/">Manga on Kindle</a></li><li><a href="/guides/cbz-to-kepub/">CBZ to KEPUB for Kobo</a></li><li><a href="/guides/manga-on-kobo/">Manga on Kobo</a></li><li><a href="/guides/comics-on-remarkable/">Comics on reMarkable</a></li><li><a href="/guides/reduce-cbz-file-size/">Reduce CBZ file size</a></li><li><a href="/guides/cbr-to-cbz/">CBR to CBZ</a></li>
+          <li><a href="/kindle-comic-converter-alternative/">KCC alternative</a></li>
         </ul>
       </div>
     </nav>
