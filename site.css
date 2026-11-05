@@ -105,6 +105,70 @@ a {
     padding: 56px 0 0;
 }
 
+.header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.lang-switcher {
+    display: flex;
+    gap: 2px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+}
+
+.lang-switcher a {
+    padding: 4px 7px;
+    border-radius: 6px;
+    color: var(--gray);
+}
+
+.lang-switcher a:hover {
+    color: var(--black);
+}
+
+.lang-switcher a[aria-current="page"] {
+    color: var(--black);
+    background: var(--yellow-light);
+}
+
+/* Logo and switcher on one line on small phones too. */
+@media (max-width: 480px) {
+    .lang-switcher {
+        gap: 0;
+        font-size: 0.72rem;
+    }
+
+    .lang-switcher a {
+        padding: 4px 5px;
+    }
+}
+
+/* Japanese: Inter has no Japanese glyphs, so name the system's Japanese
+   fonts (otherwise Windows may pick a Chinese one). No synthetic italics or
+   tight tracking for kanji, and headings break between phrases (Chrome). */
+:lang(ja) body {
+    font-family: "Inter", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI",
+        "Yu Gothic", Meiryo, "Noto Sans JP", system-ui, sans-serif;
+    line-break: strict;
+}
+
+:lang(ja) em {
+    font-style: normal;
+}
+
+:lang(ja) h1,
+:lang(ja) h2,
+:lang(ja) h3 {
+    letter-spacing: 0;
+    line-height: 1.35;
+    word-break: auto-phrase;
+}
+
 .logo {
     display: inline-flex;
     align-items: center;

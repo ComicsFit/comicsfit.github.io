@@ -1,123 +1,1803 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://comicsfit.app/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kindle-scribe-colorsoft/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kindle-scribe-3/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-3/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kindle-colorsoft/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kindle-paperwhite-12/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-12/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kindle-scribe/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kindle-paperwhite-11/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-11/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kindle-11/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-11/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kindle-oasis/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-oasis/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kobo-clara-2e/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-2e/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kobo-clara-colour/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-colour/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kobo-sage/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-sage/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kobo-libra-2/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-2/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kobo-libra-colour/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-colour/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kobo-elipsa/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-elipsa/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/kobo-nia/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-nia/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/remarkable-1/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-1/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/remarkable-2/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-2/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/devices/remarkable-paper-pro/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-paper-pro/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/guides/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/guides/cbz-to-azw3/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-azw3/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/guides/manga-on-kindle/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kindle/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/guides/cbz-to-kepub/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-kepub/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/guides/manga-on-kobo/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kobo/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/guides/comics-on-remarkable/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/comics-on-remarkable/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/guides/reduce-cbz-file-size/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/reduce-cbz-file-size/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/guides/cbr-to-cbz/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbr-to-cbz/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/kindle-comic-converter-alternative/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/kindle-comic-converter-alternative/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
   <url>
     <loc>https://comicsfit.app/about/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/about/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kindle-scribe-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kindle-scribe-3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kindle-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kindle-paperwhite-12/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-12/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kindle-scribe/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kindle-paperwhite-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kindle-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kindle-oasis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-oasis/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kobo-clara-2e/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-2e/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kobo-clara-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kobo-sage/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-sage/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kobo-libra-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kobo-libra-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kobo-elipsa/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-elipsa/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/kobo-nia/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-nia/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/remarkable-1/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-1/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/remarkable-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/devices/remarkable-paper-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-paper-pro/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/guides/cbz-to-azw3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-azw3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/guides/manga-on-kindle/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kindle/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/guides/cbz-to-kepub/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-kepub/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/guides/manga-on-kobo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kobo/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/guides/comics-on-remarkable/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/comics-on-remarkable/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/guides/reduce-cbz-file-size/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/reduce-cbz-file-size/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/guides/cbr-to-cbz/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbr-to-cbz/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/kindle-comic-converter-alternative/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/kindle-comic-converter-alternative/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/fr/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/about/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kindle-scribe-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kindle-scribe-3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kindle-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kindle-paperwhite-12/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-12/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kindle-scribe/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kindle-paperwhite-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kindle-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kindle-oasis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-oasis/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kobo-clara-2e/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-2e/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kobo-clara-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kobo-sage/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-sage/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kobo-libra-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kobo-libra-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kobo-elipsa/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-elipsa/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/kobo-nia/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-nia/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/remarkable-1/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-1/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/remarkable-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/devices/remarkable-paper-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-paper-pro/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/guides/cbz-to-azw3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-azw3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/guides/manga-on-kindle/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kindle/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/guides/cbz-to-kepub/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-kepub/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/guides/manga-on-kobo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kobo/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/guides/comics-on-remarkable/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/comics-on-remarkable/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/guides/reduce-cbz-file-size/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/reduce-cbz-file-size/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/guides/cbr-to-cbz/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbr-to-cbz/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/kindle-comic-converter-alternative/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/kindle-comic-converter-alternative/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/es/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/about/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kindle-scribe-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kindle-scribe-3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kindle-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kindle-paperwhite-12/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-12/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kindle-scribe/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kindle-paperwhite-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kindle-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kindle-oasis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-oasis/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kobo-clara-2e/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-2e/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kobo-clara-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kobo-sage/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-sage/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kobo-libra-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kobo-libra-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kobo-elipsa/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-elipsa/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/kobo-nia/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-nia/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/remarkable-1/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-1/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/remarkable-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/devices/remarkable-paper-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-paper-pro/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/guides/cbz-to-azw3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-azw3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/guides/manga-on-kindle/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kindle/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/guides/cbz-to-kepub/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-kepub/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/guides/manga-on-kobo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kobo/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/guides/comics-on-remarkable/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/comics-on-remarkable/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/guides/reduce-cbz-file-size/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/reduce-cbz-file-size/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/guides/cbr-to-cbz/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbr-to-cbz/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/kindle-comic-converter-alternative/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/kindle-comic-converter-alternative/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/de/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/about/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kindle-scribe-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kindle-scribe-3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kindle-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kindle-paperwhite-12/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-12/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kindle-scribe/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kindle-paperwhite-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kindle-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kindle-oasis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-oasis/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kobo-clara-2e/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-2e/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kobo-clara-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kobo-sage/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-sage/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kobo-libra-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kobo-libra-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kobo-elipsa/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-elipsa/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/kobo-nia/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-nia/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/remarkable-1/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-1/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/remarkable-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/devices/remarkable-paper-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-paper-pro/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/guides/cbz-to-azw3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-azw3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/guides/manga-on-kindle/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kindle/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/guides/cbz-to-kepub/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-kepub/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/guides/manga-on-kobo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kobo/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/guides/comics-on-remarkable/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/comics-on-remarkable/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/guides/reduce-cbz-file-size/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/reduce-cbz-file-size/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/guides/cbr-to-cbz/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbr-to-cbz/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/kindle-comic-converter-alternative/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/kindle-comic-converter-alternative/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/it/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/about/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kindle-scribe-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kindle-scribe-3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe-3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe-3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kindle-colorsoft/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-colorsoft/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-colorsoft/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kindle-paperwhite-12/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-12/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-12/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kindle-scribe/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-scribe/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-scribe/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kindle-paperwhite-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-paperwhite-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-paperwhite-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kindle-11/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-11/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-11/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kindle-oasis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kindle-oasis/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kindle-oasis/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kobo-clara-2e/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-2e/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-2e/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kobo-clara-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-clara-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-clara-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kobo-sage/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-sage/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-sage/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kobo-libra-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kobo-libra-colour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-libra-colour/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-libra-colour/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kobo-elipsa/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-elipsa/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-elipsa/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/kobo-nia/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/kobo-nia/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/kobo-nia/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/remarkable-1/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-1/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-1/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/remarkable-2/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-2/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-2/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/devices/remarkable-paper-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/devices/remarkable-paper-pro/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/devices/remarkable-paper-pro/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/guides/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/guides/cbz-to-azw3/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-azw3/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-azw3/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/guides/manga-on-kindle/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kindle/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kindle/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/guides/cbz-to-kepub/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbz-to-kepub/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbz-to-kepub/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/guides/manga-on-kobo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/manga-on-kobo/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/manga-on-kobo/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/guides/comics-on-remarkable/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/comics-on-remarkable/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/comics-on-remarkable/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/guides/reduce-cbz-file-size/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/reduce-cbz-file-size/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/reduce-cbz-file-size/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/guides/cbr-to-cbz/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/guides/cbr-to-cbz/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/guides/cbr-to-cbz/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/kindle-comic-converter-alternative/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/kindle-comic-converter-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/kindle-comic-converter-alternative/"/>
+    <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://comicsfit.app/ja/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://comicsfit.app/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://comicsfit.app/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://comicsfit.app/de/about/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://comicsfit.app/it/about/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/about/"/>
+    <lastmod>2026-11-05</lastmod>
   </url>
 </urlset>

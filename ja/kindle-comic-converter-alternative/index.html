@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kindle Comic Converter（KCC）の代替アプリ: Mac・Windows・Linux 対応 | ComicsFit</title>
+    <meta name="description" content="Kindle Comic Converter の代わりを探していますか？ ComicsFit は Kindle Previewer や KindleGen なしで Kindle 用 AZW3 ファイルを作れます。macOS・Windows・Linux 用の 4 MB のネイティブアプリです。">
+    
+    <link rel="canonical" href="https://comicsfit.app/ja/kindle-comic-converter-alternative/">
+    <link rel="alternate" hreflang="en" href="https://comicsfit.app/kindle-comic-converter-alternative/"><link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/kindle-comic-converter-alternative/"><link rel="alternate" hreflang="es" href="https://comicsfit.app/es/kindle-comic-converter-alternative/"><link rel="alternate" hreflang="de" href="https://comicsfit.app/de/kindle-comic-converter-alternative/"><link rel="alternate" hreflang="it" href="https://comicsfit.app/it/kindle-comic-converter-alternative/"><link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/kindle-comic-converter-alternative/">
+    <link rel="alternate" hreflang="x-default" href="https://comicsfit.app/kindle-comic-converter-alternative/">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="ComicsFit">
+    <meta property="og:url" content="https://comicsfit.app/ja/kindle-comic-converter-alternative/">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:locale:alternate" content="en_US"><meta property="og:locale:alternate" content="fr_FR"><meta property="og:locale:alternate" content="es_ES"><meta property="og:locale:alternate" content="de_DE"><meta property="og:locale:alternate" content="it_IT">
+    <meta property="og:title" content="Kindle Comic Converter（KCC）の代替アプリ: Mac・Windows・Linux 対応 | ComicsFit">
+    <meta property="og:description" content="Kindle Comic Converter の代わりを探していますか？ ComicsFit は Kindle Previewer や KindleGen なしで Kindle 用 AZW3 ファイルを作れます。macOS・Windows・Linux 用の 4 MB のネイティブアプリです。">
+    <meta property="og:image" content="https://comicsfit.app/images/og-image.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Kobo Libra Colour 向けに CBZ ファイルをまとめて最適化している ComicsFit">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/site.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <script src="/site.js" defer>
+    </script>
+    
+    <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https:\/\/comicsfit.app\/ja\/","name":"ホーム","position":1},{"@type":"ListItem","item":"https:\/\/comicsfit.app\/ja\/kindle-comic-converter-alternative\/","name":"Kindle Comic Converter の代替","position":2}]}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","inLanguage":"ja","mainEntity":[{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"いいえ。ComicsFit は独自の Rust エンジンを持つ別のアプリです。見開きページの検出方法など、KCC で実績のある手法をいくつか取り入れていますが、コードは共有していません。"},"name":"ComicsFit は Kindle Comic Converter のフォークですか？"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"ComicsFit なら必要ありません。AZW3 ファイルを直接書き出すので、Amazon のソフトをインストールする必要はありません。KCC は kindlegen に頼っていますが、kindlegen は今では約 1 GB の Kindle Previewer に同梱されているだけです。"},"name":"Kindle 用ファイルを作るのに Kindle Previewer や KindleGen は必要ですか？"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"はい、KCC は無料のオープンソースです。ComicsFit も 1 ファイルずつなら、すべての形式とデバイスを無料で使えます。9 ユーロ の買い切りライセンスで、コレクション全体を処理できる一括処理キューが加わります。"},"name":"Kindle Comic Converter は無料ですか？"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"はい。マンガモードをオンにすると、AZW3（Kindle）と KEPUB（Kobo）のファイルが右から左に開きます。"},"name":"ComicsFit でも KCC のようにマンガを右から左に読めるようにできますか？"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"はい。macOS 版は Apple シリコン向けに作られたネイティブの SwiftUI アプリで、Python や Qt のランタイムは不要です。"},"name":"ComicsFit は Apple シリコン搭載の Mac で動きますか？"}]}</script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-row">
+        <a href="/ja/" class="logo">
+          <span class="logo-icon">
+            <img src="/images/icon-104.webp" alt="" width="52" height="52">
+          </span>
+          ComicsFit
+        </a>
+        <nav class="lang-switcher" aria-label="言語">
+          <a href="/kindle-comic-converter-alternative/" hreflang="en" lang="en" title="English">
+            EN
+          </a><a href="/fr/kindle-comic-converter-alternative/" hreflang="fr" lang="fr" title="Français">
+            FR
+          </a><a href="/es/kindle-comic-converter-alternative/" hreflang="es" lang="es" title="Español">
+            ES
+          </a><a href="/de/kindle-comic-converter-alternative/" hreflang="de" lang="de" title="Deutsch">
+            DE
+          </a><a href="/it/kindle-comic-converter-alternative/" hreflang="it" lang="it" title="Italiano">
+            IT
+          </a><a href="/ja/kindle-comic-converter-alternative/" hreflang="ja" lang="ja" title="日本語" aria-current="page">
+            JA
+          </a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      
+  <nav class="breadcrumbs" aria-label="パンくずリスト">
+  <div class="container">
+    <ol>
+      <li>
+        <a href="/ja/">ホーム</a>
+      </li><li>
+        <a href="/ja/kindle-comic-converter-alternative/">Kindle Comic Converter の代替</a>
+      </li>
+    </ol>
+  </div>
+</nav>
+
+<section class="hero hero-compact">
+  <div class="container">
+    <h1>
+      <em>Kindle Comic Converter</em> の代わりに。1&nbsp;GB の追加ソフトは不要です
+    </h1>
+    <p class="hero-desc">
+      Kindle Comic Converter（KCC）は優れたオープンソースツールですが、Kindle 用ファイルを作るには KindleGen が必要です。そのためだけに、約 1&nbsp;GB の Kindle Previewer を Amazon からダウンロードしなければなりません。ComicsFit は独自の AZW3 書き出し機能を持つ、macOS・Windows・Linux 用の 4&nbsp;MB のネイティブアプリです。
+    </p>
+    <div class="hero-actions">
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" class="btn-download" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" data-linux-text="↓ Linux 版をダウンロード" data-windows data-windows-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-x64.exe" data-windows-text="↓ Windows 版（x64）をダウンロード">
+  ↓ macOS 版をダウンロード
+</a>
+    </div>
+  </div>
+</section>
+
+<section class="screenshot-section">
+  <div class="container">
+    <div class="screenshot-wrap">
+      <img src="/images/screenshot_macos_01_ja-760.webp" srcset="/images/screenshot_macos_01_ja-760.webp 760w, /images/screenshot_macos_01_ja-1520.webp 1520w" sizes="(max-width: 760px) 100vw, 712px" width="1904" height="1304" alt="Kobo Libra Colour 向けに 5 つの CBZ ファイルを最適化し、ファイルサイズを 90% 削減した ComicsFit アプリ" loading="lazy" data-linux data-linux-src="/images/screenshot_linux_02_ja-760.webp" data-linux-srcset="/images/screenshot_linux_02_ja-760.webp 760w, /images/screenshot_linux_02_ja-1520.webp 1520w" data-linux-width="1832" data-linux-height="1272" data-linux-alt="複数のコミックファイルを一括変換している Linux 版 ComicsFit" data-windows data-windows-src="/images/screenshot_windows_02_ja-760.webp" data-windows-srcset="/images/screenshot_windows_02_ja-760.webp 760w, /images/screenshot_windows_02_ja-1520.webp 1520w" data-windows-width="1618" data-windows-height="1109" data-windows-alt="Kobo Libra Colour 向けに 5 つのコミックファイルを変換している Windows 版 ComicsFit">
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-label">比較</div>
+    <h2>ComicsFit と Kindle Comic Converter の比較</h2>
+    <div class="table-scroll">
+      <table class="device-table compare-table">
+        <thead>
+          <tr>
+            <th scope="col"></th>
+            <th scope="col">ComicsFit</th>
+            <th scope="col">Kindle Comic Converter</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">Kindle 用ファイル（AZW3）</th>
+            <td>標準対応、追加インストール不要</td>
+            <td>
+              Amazon の Kindle Previewer（約 1&nbsp;GB）に含まれる kindlegen が必要
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">ダウンロード</th>
+            <td>約 4&nbsp;MB、ひとつのアプリ</td>
+            <td>KCC 本体。Kindle 用ファイルの作成には Kindle Previewer も必要</td>
+          </tr>
+          <tr>
+            <th scope="row">インターフェース</th>
+            <td>ネイティブアプリ：macOS は SwiftUI、Linux は GTK4/Adwaita、Windows は WPF</td>
+            <td>どのシステムでも同じ Qt のインターフェース</td>
+          </tr>
+          <tr>
+            <th scope="row">入力</th>
+            <td>CBZ, CBR, EPUB, KEPUB</td>
+            <td>CBZ、CBR、CB7、PDF、画像フォルダーなど</td>
+          </tr>
+          <tr>
+            <th scope="row">出力</th>
+            <td>AZW3, KEPUB, EPUB, CBZ, PDF</td>
+            <td>MOBI/AZW3, EPUB, KEPUB, CBZ, PDF</td>
+          </tr>
+          <tr>
+            <th scope="row">デバイスプリセット</th>
+            <td>
+              現行の Kindle・Kobo・<a href="/ja/devices/">reMarkable</a> の各モデル、またはカスタム解像度
+            </td>
+            <td>多数。古い Kindle や Kobo も多く含む</td>
+          </tr>
+          <tr>
+            <th scope="row">マンガ（右から左）</th>
+            <td>対応</td>
+            <td>対応</td>
+          </tr>
+          <tr>
+            <th scope="row">オプション</th>
+            <td>
+              使いやすい初期設定とシンプルなオプション：マンガモード、余白をトリミング、白黒
+            </td>
+            <td>
+              多数：見開きの分割、拡大、ガンマ補正、Webtoon モード、パネルビューなど
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">コマンドライン</th>
+            <td>非対応</td>
+            <td>対応</td>
+          </tr>
+          <tr>
+            <th scope="row">価格</th>
+            <td>1 ファイルずつなら無料、一括処理は 9 ユーロ の買い切り</td>
+            <td>無料のオープンソース</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-label">乗り換える理由</div>
+    <h2>ComicsFit のここが違う</h2>
+    <ul class="feature-list">
+      <li>
+        <strong>Kindle Previewer 不要</strong>
+        <span>
+          Amazon は KindleGen の単体配布を終了したため、KCC では約 1&nbsp;GB の Kindle Previewer から KindleGen を取り出す必要があります。ComicsFit には独自の AZW3 書き出し機能があるので、追加のソフトをインストールせずに <a href="/ja/guides/cbz-to-azw3/">CBZ を AZW3 に変換</a>できます。
+        </span>
+      </li>
+      <li>
+        <strong>どの OS でもネイティブアプリ</strong>
+        <span>
+          Mac、GNOME、Windows それぞれにネイティブアプリを用意し、共通の高速な Rust エンジンを使っています。ダウンロードは約 4&nbsp;MB。Python や Qt のランタイムは不要です。
+        </span>
+      </li>
+      <li>
+        <strong>設定が少なく、迷わず使える</strong>
+        <span>
+          デバイスを選び、形式を選び、「変換」をクリック。ComicsFit はお使いのデバイスで使える形式だけを表示し、最適なものを選びます。
+        </span>
+      </li>
+      <li>
+        <strong>Kobo と reMarkable にも</strong>
+        <span>
+          <a href="/ja/guides/cbz-to-kepub/">Kobo</a> には KEPUB、<a href="/ja/guides/comics-on-remarkable/">reMarkable</a> には画面サイズに合わせた PDF。
+        </span>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-label">公平に見て</div>
+    <h2>KCC のほうが向いている場合</h2>
+    <p class="prose">
+      KCC は長年使われてきたツールで、ComicsFit にはないオプションがあります。見開きページの 2 ページへの分割、小さなスキャン画像の拡大、ガンマ補正、Webtoon モード、Kindle のパネルビュー、コマンドラインツール、古いデバイスやより多くの入力形式への対応などです。また、一括処理も含めてすべて無料のオープンソースです。
+    </p>
+    <p class="prose">
+      こうしたオプションが必要な方や、すでに Kindle Previewer をインストールしている方には、KCC は良いツールです。数クリックでコミックを電子書籍リーダーに合ったファイルにしてくれる小さなネイティブアプリがほしいなら、ComicsFit をお試しください。1 ファイルずつなら無料で使えます。
+    </p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-label">乗り換え</div>
+    <h2>KCC から乗り換える方へ</h2>
+    <ol class="steps">
+      <li>
+        <a href="#download" class="inline-link">ComicsFit をダウンロード</a>して開きます。KCC のためだけに Kindle Previewer を入れていたなら、アンインストールしてかまいません。
+      </li>
+      <li>.cbz、.cbr、.epub ファイルをウインドウにドロップします。</li>
+      <li>
+        <a href="/ja/devices/" class="inline-link">デバイス</a>を選ぶと、KCC のデバイスプロファイルのように解像度が設定されます。
+      </li>
+      <li>
+        出力形式を選びます（Kindle なら AZW3、Kobo なら KEPUB、reMarkable なら PDF）。右から左に読むなら<strong>マンガモード</strong>をオンにします。
+      </li>
+      <li><strong>変換</strong>をクリックします。</li>
+    </ol>
+  </div>
+</section>
+
+<section class="section" id="faq">
+  <div class="container">
+    <div class="section-label">よくある質問</div>
+    <h2>質問</h2>
+    <div class="faq">
+      <div class="faq-item">
+        <h3>ComicsFit は Kindle Comic Converter のフォークですか？</h3>
+        <p>いいえ。ComicsFit は独自の Rust エンジンを持つ別のアプリです。見開きページの検出方法など、KCC で実績のある手法をいくつか取り入れていますが、コードは共有していません。</p>
+      </div><div class="faq-item">
+        <h3>Kindle 用ファイルを作るのに Kindle Previewer や KindleGen は必要ですか？</h3>
+        <p>ComicsFit なら必要ありません。AZW3 ファイルを直接書き出すので、Amazon のソフトをインストールする必要はありません。KCC は kindlegen に頼っていますが、kindlegen は今では約 1 GB の Kindle Previewer に同梱されているだけです。</p>
+      </div><div class="faq-item">
+        <h3>Kindle Comic Converter は無料ですか？</h3>
+        <p>はい、KCC は無料のオープンソースです。ComicsFit も 1 ファイルずつなら、すべての形式とデバイスを無料で使えます。9 ユーロ の買い切りライセンスで、コレクション全体を処理できる一括処理キューが加わります。</p>
+      </div><div class="faq-item">
+        <h3>ComicsFit でも KCC のようにマンガを右から左に読めるようにできますか？</h3>
+        <p>はい。マンガモードをオンにすると、AZW3（Kindle）と KEPUB（Kobo）のファイルが右から左に開きます。</p>
+      </div><div class="faq-item">
+        <h3>ComicsFit は Apple シリコン搭載の Mac で動きますか？</h3>
+        <p>はい。macOS 版は Apple シリコン向けに作られたネイティブの SwiftUI アプリで、Python や Qt のランタイムは不要です。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section" id="download">
+  <div class="container">
+    <h2>ComicsFit をダウンロード</h2>
+    <p>無料で使えます。4 MB。アカウント不要。</p>
+    <div class="cta-buttons">
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" class="btn-download" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" data-linux-text="↓ Linux 版をダウンロード" data-windows data-windows-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-x64.exe" data-windows-text="↓ Windows 版（x64）をダウンロード">
+  ↓ macOS 版をダウンロード
+</a>
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" class="btn-download btn-download-secondary" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" data-linux-text="↓ macOS 版をダウンロード">
+        ↓ Linux 版をダウンロード
+      </a>
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-x64.exe" class="btn-download btn-download-secondary" data-windows data-windows-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" data-windows-text="↓ macOS 版をダウンロード">
+        ↓ Windows 版（x64）をダウンロード
+      </a>
+    </div>
+    <p class="cta-platforms">
+      Windows on ARM をお使いですか？
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-arm64.exe" class="inline-link">ARM64 版をダウンロード</a>
+    </p>
+    <p class="cta-platforms" data-linux data-linux-text="Linux GTK4/Adwaita · macOS（Apple シリコン）· Windows 10/11（x64 と ARM64）" data-windows data-windows-text="Windows 10/11（x64 と ARM64）· macOS（Apple シリコン）· Linux GTK4/Adwaita">
+      macOS（Apple シリコン）· Linux GTK4/Adwaita · Windows 10/11（x64 と ARM64）
+    </p>
+    <p class="cta-platforms">
+      Windows では <a href="https://dotnet.microsoft.com/download/dotnet/10.0" class="inline-link">.NET デスクトップ ランタイム 10</a> 以降が必要です。インストールされていない場合は、ComicsFit を開いたときに Windows がダウンロードを提案します。
+    </p>
+    <p class="cta-warning" data-linux data-linux-hidden data-windows data-windows-hidden>
+      ⚠️ <strong>macOS のセキュリティ警告:</strong> ComicsFit はまだ Apple の公証を受けていません。初回起動時は、アプリを右クリック → <em>開く</em> を選び、ダイアログで <em>開く</em> をクリックしてください。macOS にブロックされた場合は、<strong>システム設定 → プライバシーとセキュリティ</strong> で <em>「このまま開く」</em> をクリックします。この操作は 1 回だけで済みます。
+    </p>
+  </div>
+</section>
+
+    </main>
+    <footer>
+  <div class="container">
+    <nav class="footer-nav" aria-label="フッター">
+      <div>
+        <div class="footer-heading">Kindle</div>
+        <ul>
+          <li>
+            <a href="/ja/devices/kindle-scribe-colorsoft/">Kindle Scribe Colorsoft</a>
+          </li><li>
+            <a href="/ja/devices/kindle-scribe-3/">Kindle Scribe 3</a>
+          </li><li>
+            <a href="/ja/devices/kindle-colorsoft/">Kindle Colorsoft</a>
+          </li><li>
+            <a href="/ja/devices/kindle-paperwhite-12/">Kindle Paperwhite 12</a>
+          </li><li>
+            <a href="/ja/devices/kindle-scribe/">Kindle Scribe 1/2</a>
+          </li><li>
+            <a href="/ja/devices/kindle-paperwhite-11/">Kindle Paperwhite 11</a>
+          </li><li>
+            <a href="/ja/devices/kindle-11/">Kindle 11</a>
+          </li><li>
+            <a href="/ja/devices/kindle-oasis/">Kindle Oasis 9/10</a>
+          </li>
+        </ul>
+      </div><div>
+        <div class="footer-heading">Kobo</div>
+        <ul>
+          <li>
+            <a href="/ja/devices/kobo-clara-2e/">Kobo Clara 2E</a>
+          </li><li>
+            <a href="/ja/devices/kobo-clara-colour/">Kobo Clara Colour</a>
+          </li><li>
+            <a href="/ja/devices/kobo-sage/">Kobo Sage</a>
+          </li><li>
+            <a href="/ja/devices/kobo-libra-2/">Kobo Libra 2</a>
+          </li><li>
+            <a href="/ja/devices/kobo-libra-colour/">Kobo Libra Colour</a>
+          </li><li>
+            <a href="/ja/devices/kobo-elipsa/">Kobo Elipsa</a>
+          </li><li>
+            <a href="/ja/devices/kobo-nia/">Kobo Nia</a>
+          </li>
+        </ul>
+      </div><div>
+        <div class="footer-heading">reMarkable</div>
+        <ul>
+          <li>
+            <a href="/ja/devices/remarkable-1/">reMarkable 1</a>
+          </li><li>
+            <a href="/ja/devices/remarkable-2/">reMarkable 2</a>
+          </li><li>
+            <a href="/ja/devices/remarkable-paper-pro/">reMarkable Paper Pro</a>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-heading">ComicsFit</div>
+        <ul>
+          <li><a href="/ja/">ホーム</a></li>
+          <li><a href="/ja/devices/">すべてのデバイス</a></li>
+          <li><a href="/ja/#pricing">料金</a></li>
+          <li><a href="/ja/#faq">よくある質問</a></li>
+          <li><a href="/ja/#download">ダウンロード</a></li>
+          <li><a href="/ja/about/">概要</a></li>
+          <li><a href="https://github.com/ComicsFit/comicsfit.github.io/issues">問題を報告</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-heading">ガイド</div>
+        <ul>
+          <li><a href="/ja/guides/cbz-to-azw3/">Kindle 向けに CBZ を AZW3 へ</a></li><li><a href="/ja/guides/manga-on-kindle/">Kindle でマンガ</a></li><li><a href="/ja/guides/cbz-to-kepub/">Kobo 向けに CBZ を KEPUB へ</a></li><li><a href="/ja/guides/manga-on-kobo/">Kobo でマンガ</a></li><li><a href="/ja/guides/comics-on-remarkable/">reMarkable でコミックを読む</a></li><li><a href="/ja/guides/reduce-cbz-file-size/">CBZ のファイルサイズを小さくする</a></li><li><a href="/ja/guides/cbr-to-cbz/">CBR から CBZ へ</a></li>
+          <li>
+            <a href="/ja/kindle-comic-converter-alternative/">
+              KCC の代替
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="footer-copy">© 2026 ComicsFit</div>
+  </div>
+</footer>
+  </body>
+</html>

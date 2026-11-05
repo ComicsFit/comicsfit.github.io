@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ComicsFit: Comic- und Manga-Konverter für Kindle, Kobo &amp; reMarkable</title>
+    <meta name="description" content="Konvertiere und komprimiere CBZ-, CBR- und EPUB-Comics und Manga für Kindle, Kobo und reMarkable. Kostenlose native App für macOS, Linux und Windows.">
+    
+    <link rel="canonical" href="https://comicsfit.app/de/">
+    <link rel="alternate" hreflang="en" href="https://comicsfit.app/"><link rel="alternate" hreflang="fr" href="https://comicsfit.app/fr/"><link rel="alternate" hreflang="es" href="https://comicsfit.app/es/"><link rel="alternate" hreflang="de" href="https://comicsfit.app/de/"><link rel="alternate" hreflang="it" href="https://comicsfit.app/it/"><link rel="alternate" hreflang="ja" href="https://comicsfit.app/ja/">
+    <link rel="alternate" hreflang="x-default" href="https://comicsfit.app/">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="ComicsFit">
+    <meta property="og:url" content="https://comicsfit.app/de/">
+    <meta property="og:locale" content="de_DE">
+    <meta property="og:locale:alternate" content="en_US"><meta property="og:locale:alternate" content="fr_FR"><meta property="og:locale:alternate" content="es_ES"><meta property="og:locale:alternate" content="it_IT"><meta property="og:locale:alternate" content="ja_JP">
+    <meta property="og:title" content="ComicsFit: Comic- und Manga-Konverter für Kindle, Kobo &amp; reMarkable">
+    <meta property="og:description" content="Konvertiere und komprimiere CBZ-, CBR- und EPUB-Comics und Manga für Kindle, Kobo und reMarkable. Kostenlose native App für macOS, Linux und Windows.">
+    <meta property="og:image" content="https://comicsfit.app/images/og-image.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="ComicsFit beim Optimieren eines Stapels CBZ-Dateien für einen Kobo Libra Colour">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/site.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png">
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <script src="/site.js" defer>
+    </script>
+    <script src="https://assets.lemonsqueezy.com/lemon.js" defer>
+    </script>
+    <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","inLanguage":"de","name":"ComicsFit","url":"https:\/\/comicsfit.app\/de\/"}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"SoftwareApplication","applicationCategory":"UtilitiesApplication","description":"Konvertiere und komprimiere CBZ-, CBR- und EPUB-Comics und Manga für Kindle, Kobo und reMarkable. Kostenlose native App für macOS, Linux und Windows.","downloadUrl":["https:\/\/github.com\/ComicsFit\/comicsfit.github.io\/releases\/latest\/download\/ComicsFit-macos.dmg","https:\/\/github.com\/ComicsFit\/comicsfit.github.io\/releases\/latest\/download\/comicsfit-linux.flatpak","https:\/\/github.com\/ComicsFit\/comicsfit.github.io\/releases\/latest\/download\/ComicsFit-windows-x64.exe","https:\/\/github.com\/ComicsFit\/comicsfit.github.io\/releases\/latest\/download\/ComicsFit-windows-arm64.exe"],"featureList":["Eingabe: CBZ, CBR, EPUB, KEPUB","Ausgabe: KEPUB, EPUB, CBZ, AZW3, PDF","Profile für Kindle-, Kobo- und reMarkable-Geräte","Intelligente Bildkomprimierung","Manga-Modus (von rechts nach links)","Ränder beschneiden","Schwarz-Weiß-Konvertierung","Warteschlange für die Stapelverarbeitung"],"fileSize":"4MB","image":"https:\/\/comicsfit.app\/icon_rounded.png","inLanguage":["en","fr","es","de","it","ja"],"name":"ComicsFit","offers":[{"@type":"Offer","name":"Kostenlos","price":"0","priceCurrency":"EUR"},{"@type":"Offer","description":"Einmalige Zahlung zum Freischalten der Warteschlange für ganze Sammlungen","name":"Lizenzschlüssel","price":"9","priceCurrency":"EUR"}],"operatingSystem":"macOS, Linux, Windows 10, Windows 11","publisher":{"@type":"Organization","name":"ComicsFit","url":"https:\/\/comicsfit.app\/"},"screenshot":"https:\/\/comicsfit.app\/screenshot_macos_01_de.png","url":"https:\/\/comicsfit.app\/de\/"}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","inLanguage":"de","mainEntity":[{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Ja. Alle Formate, Geräteprofile und Optionen sind für einzelne Dateien kostenlos. Für einmalig 9 € kannst du die Warteschlange freischalten und eine ganze Sammlung auf einmal konvertieren."},"name":"Ist ComicsFit kostenlos?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"KEPUB für Kobo, AZW3 für Kindle und PDF für reMarkable. Wähle dein Gerät in ComicsFit aus. Die App zeigt nur die passenden Formate an und wählt das beste automatisch aus."},"name":"Welches Format soll ich für meinen E-Reader nehmen?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Ja. Aktiviere den Manga-Modus, damit ComicsFit in KEPUB-Dateien für Kobo und AZW3-Dateien für Kindle die Leserichtung von rechts nach links einstellt. So kannst du in der ursprünglichen Leserichtung blättern."},"name":"Kann ich Manga von rechts nach links lesen?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Das hängt von der Quelle ab, aber Scans sind oft viel größer als der Bildschirm eines E-Readers. Auf die genaue Bildschirmauflösung verkleinern und neu komprimieren spart oft 50 bis 90 %, ohne sichtbaren Unterschied auf dem Gerät."},"name":"Wie viel kleiner werden die Dateien?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"Nein. ComicsFit ist eine Desktop-App und jede Konvertierung läuft auf deinem Computer. Kein Konto, kein Upload."},"name":"Werden meine Comics irgendwo hochgeladen?"},{"@type":"Question","acceptedAnswer":{"@type":"Answer","text":"ComicsFit erstellt Kindle-AZW3-Dateien selbst. Du brauchst deshalb nicht Amazons Kindle Previewer mit etwa 1 GB herunterzuladen, um KindleGen zu erhalten. Die native App ist 4 MB groß und hat weniger Einstellungen, die einfacher zu bedienen sind. KCC bietet mehr erweiterte Optionen und ist vollständig kostenlos und Open Source."},"name":"Was unterscheidet ComicsFit von Kindle Comic Converter (KCC)?"}]}</script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-row">
+        <a href="/de/" class="logo">
+          <span class="logo-icon">
+            <img src="/images/icon-104.webp" alt="" width="52" height="52">
+          </span>
+          ComicsFit
+        </a>
+        <nav class="lang-switcher" aria-label="Sprache">
+          <a href="/" hreflang="en" lang="en" title="English">
+            EN
+          </a><a href="/fr/" hreflang="fr" lang="fr" title="Français">
+            FR
+          </a><a href="/es/" hreflang="es" lang="es" title="Español">
+            ES
+          </a><a href="/de/" hreflang="de" lang="de" title="Deutsch" aria-current="page">
+            DE
+          </a><a href="/it/" hreflang="it" lang="it" title="Italiano">
+            IT
+          </a><a href="/ja/" hreflang="ja" lang="ja" title="日本語">
+            JA
+          </a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      
+  <section class="hero">
+  <div class="container">
+    <h1>
+      Comics und Manga optimieren<br />für Kindle, Kobo &amp; <em>jeden E&#8209;Reader.</em>
+    </h1>
+    <p class="hero-desc">
+      Lege deine CBZ-, CBR-, EPUB- oder KEPUB-Dateien ab und erhalte eine Datei in perfekter Größe, zugeschnitten auf deinen E-Reader. Kostenlos nutzbar. Native App für macOS, Linux und Windows.
+    </p>
+    <div class="hero-actions">
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" class="btn-download" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" data-linux-text="↓ Für Linux herunterladen" data-windows data-windows-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-x64.exe" data-windows-text="↓ Für Windows (x64) herunterladen">
+  ↓ Für macOS herunterladen
+</a>
+    </div>
+    <p class="hero-platforms">
+      Auch verfügbar für <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" class="inline-link" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" data-linux-text="macOS">Linux (GTK4/Adwaita)</a>,
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-x64.exe" class="inline-link" data-windows data-windows-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" data-windows-text="macOS">Windows (x64)</a>
+      oder <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-arm64.exe" class="inline-link">Windows ARM64</a>
+    </p>
+  </div>
+</section>
+
+<section class="screenshot-section">
+  <div class="container">
+    <div class="screenshot-wrap">
+      <img src="/images/screenshot_macos_01_de-760.webp" srcset="/images/screenshot_macos_01_de-760.webp 760w, /images/screenshot_macos_01_de-1520.webp 1520w" sizes="(max-width: 760px) 100vw, 712px" width="1904" height="1304" alt="Die App ComicsFit mit 5 CBZ-Dateien, optimiert für einen Kobo Libra Colour, 90 % kleiner" loading="eager" fetchpriority="high" data-linux data-linux-src="/images/screenshot_linux_02_de-760.webp" data-linux-srcset="/images/screenshot_linux_02_de-760.webp 760w, /images/screenshot_linux_02_de-1520.webp 1520w" data-linux-width="1832" data-linux-height="1272" data-linux-alt="ComicsFit unter Linux beim Konvertieren mehrerer Comics im Stapel" data-windows data-windows-src="/images/screenshot_windows_02_de-760.webp" data-windows-srcset="/images/screenshot_windows_02_de-760.webp 760w, /images/screenshot_windows_02_de-1520.webp 1520w" data-windows-width="1618" data-windows-height="1109" data-windows-alt="ComicsFit unter Windows beim Konvertieren von fünf Comics für einen Kobo Libra Colour">
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-label">Funktionen</div>
+    <h2>Eine Aufgabe. Gut gemacht.</h2>
+    <p class="section-intro">
+      Komprimiere, verkleinere und optimiere Comic-Archive für deinen E-Reader. Gerät wählen, Ausgabeformat wählen, Konvertieren klicken.
+    </p>
+
+    <ul class="feature-list">
+      <li>
+        <strong>Intelligente Komprimierung</strong>
+        <span>Deutlich kleinere Dateien bei gleicher Bildqualität.</span>
+      </li>
+      <li>
+        <strong>Geräteprofile</strong>
+        <span>
+          Kindle Paperwhite, Kindle Scribe, Kobo Libra Colour, Kobo Sage, reMarkable Paper Pro und <a href="/de/devices/" class="inline-link">mehr</a>, oder eine eigene Auflösung. ComicsFit passt jede Seite genau an den Bildschirm an.
+        </span>
+      </li>
+      <li>
+        <strong>Manga-Modus</strong>
+        <span>
+          Leserichtung von rechts nach links für KEPUB- und AZW3-Ausgabe, damit dein Manga auf dem Gerät richtig gelesen wird.
+        </span>
+      </li>
+      <li>
+        <strong>Ränder beschneiden</strong>
+        <span>
+          Entfernt die leeren Ränder um gescannte Seiten, damit das Bild den ganzen Bildschirm nutzt.
+        </span>
+      </li>
+      <li>
+        <strong>Schwarz-Weiß</strong>
+        <span>
+          Wandelt Seiten für Schwarz-Weiß-Bildschirme in Graustufen um: noch kleinere Dateien, kein sichtbarer Unterschied.
+        </span>
+      </li>
+      <li>
+        <strong>Stapelverarbeitung</strong>
+        <span>Stell deine ganze Sammlung in die Warteschlange und lehn dich zurück.</span>
+      </li>
+      <li>
+        <strong>Wirklich nativ</strong>
+        <span>
+          Entwickelt mit Swift auf macOS, GTK4/Adwaita auf Linux und WPF auf Windows. Etwa 4 MB Download, und Kindle-Dateien brauchen keine zusätzliche Software von Amazon (<a href="/de/kindle-comic-converter-alternative/">im Vergleich zu KCC</a>).
+        </span>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-label">Formate</div>
+    <h2>Gängige Eingabeformate. Passende Dateien für deinen E-Reader.</h2>
+    <p class="section-intro">
+      ComicsFit liest die gängigsten Comic-Archivformate und konvertiert in das Format, das dein Gerät braucht.
+    </p>
+
+    <div class="formats-grid">
+      <div>
+        <div class="format-group-label">Eingabe</div>
+        <div class="format-tags">
+          <span class="format-tag">.cbz</span><span class="format-tag">.cbr</span><span class="format-tag">.epub</span><span class="format-tag">.kepub</span>
+        </div>
+      </div>
+      <div class="format-arrow" aria-hidden="true">→</div>
+      <div>
+        <div class="format-group-label">Ausgabe</div>
+        <div class="format-tags">
+          <span class="format-tag">.kepub</span><span class="format-tag">.epub</span><span class="format-tag">.cbz</span><span class="format-tag">.azw3</span><span class="format-tag">.pdf</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="brand-grid">
+      <div class="brand-card">
+        <h3>Kindle: AZW3</h3>
+        <ul>
+          <li>
+            <a href="/de/devices/kindle-scribe-colorsoft/">Kindle Scribe Colorsoft</a>
+          </li><li>
+            <a href="/de/devices/kindle-scribe-3/">Kindle Scribe 3</a>
+          </li><li>
+            <a href="/de/devices/kindle-colorsoft/">Kindle Colorsoft</a>
+          </li><li>
+            <a href="/de/devices/kindle-paperwhite-12/">Kindle Paperwhite 12</a>
+          </li><li>
+            <a href="/de/devices/kindle-scribe/">Kindle Scribe 1/2</a>
+          </li><li>
+            <a href="/de/devices/kindle-paperwhite-11/">Kindle Paperwhite 11</a>
+          </li><li>
+            <a href="/de/devices/kindle-11/">Kindle 11</a>
+          </li><li>
+            <a href="/de/devices/kindle-oasis/">Kindle Oasis 9/10</a>
+          </li>
+        </ul>
+      </div><div class="brand-card">
+        <h3>Kobo: KEPUB</h3>
+        <ul>
+          <li>
+            <a href="/de/devices/kobo-clara-2e/">Kobo Clara 2E</a>
+          </li><li>
+            <a href="/de/devices/kobo-clara-colour/">Kobo Clara Colour</a>
+          </li><li>
+            <a href="/de/devices/kobo-sage/">Kobo Sage</a>
+          </li><li>
+            <a href="/de/devices/kobo-libra-2/">Kobo Libra 2</a>
+          </li><li>
+            <a href="/de/devices/kobo-libra-colour/">Kobo Libra Colour</a>
+          </li><li>
+            <a href="/de/devices/kobo-elipsa/">Kobo Elipsa</a>
+          </li><li>
+            <a href="/de/devices/kobo-nia/">Kobo Nia</a>
+          </li>
+        </ul>
+      </div><div class="brand-card">
+        <h3>reMarkable: PDF</h3>
+        <ul>
+          <li>
+            <a href="/de/devices/remarkable-1/">reMarkable 1</a>
+          </li><li>
+            <a href="/de/devices/remarkable-2/">reMarkable 2</a>
+          </li><li>
+            <a href="/de/devices/remarkable-paper-pro/">reMarkable Paper Pro</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <p class="devices-more">
+      Ein anderes Gerät? Gib eine eigene Auflösung ein und wähle ein beliebiges Ausgabeformat. <a href="/de/devices/" class="inline-link">Alle unterstützten Geräte ansehen</a> oder <a href="/de/guides/" class="inline-link">die Anleitungen lesen</a>.
+    </p>
+  </div>
+</section>
+
+<section class="section" id="pricing">
+  <div class="container">
+    <div class="section-label">Preise</div>
+    <h2>Kostenlos nutzbar.<br />Stapelverarbeitung für 9 € freischalten.</h2>
+    <p class="section-intro">
+      Die komplette Konvertierungs-Engine ist kostenlos. Schalte die Warteschlange frei, um deine ganze Sammlung auf einmal zu verarbeiten.
+    </p>
+
+    <div class="pricing-grid">
+      <div class="pricing-card">
+        <div class="pricing-name">Kostenlos</div>
+        <div class="pricing-price">0 €</div>
+        <div class="pricing-note">Für immer kostenlos</div>
+        <ul class="pricing-features">
+          <li><span class="check">✓</span> Vollständige Komprimierungs-Engine</li>
+          <li><span class="check">✓</span> Alle Geräteprofile</li>
+          <li><span class="check">✓</span> Alle Eingabeformate</li>
+          <li><span class="check">✓</span> Alle Ausgabeformate</li>
+          <li><span class="check">✓</span> Eine Datei nach der anderen</li>
+          <li class="dim"><span class="x">✕</span> Warteschlange für mehrere Dateien</li>
+        </ul>
+        <a href="#download" class="btn-pricing btn-pricing-free">Kostenlos herunterladen</a>
+      </div>
+
+      <div class="pricing-card featured">
+        <div class="pricing-name">Lizenzschlüssel</div>
+        <div class="pricing-price">9 €</div>
+        <div class="pricing-note">Einmal zahlen · dauerhaft nutzen</div>
+        <ul class="pricing-features">
+          <li><span class="check">✓</span> Alles aus der Gratisversion</li>
+          <li><span class="check">✓</span> Mehrere Dateien auf einmal in die Warteschlange</li>
+          <li><span class="check">✓</span> Ganze Sammlungen auf einmal verarbeiten</li>
+          <li><span class="check">✓</span> Unterstütze unabhängige Entwicklung</li>
+        </ul>
+        <a href="https://comicsfit.lemonsqueezy.com/checkout/buy/6a98292d-e322-4a0f-ba1c-5280705ecb33?embed=1" class="btn-pricing btn-pricing-paid lemonsqueezy-button">
+          Lizenzschlüssel für 9 € kaufen
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="faq">
+  <div class="container">
+    <div class="section-label">FAQ</div>
+    <h2>Fragen</h2>
+    <div class="faq">
+      <div class="faq-item">
+        <h3>Ist ComicsFit kostenlos?</h3>
+        <p>Ja. Alle Formate, Geräteprofile und Optionen sind für einzelne Dateien kostenlos. Für einmalig 9 € kannst du die Warteschlange freischalten und eine ganze Sammlung auf einmal konvertieren.</p>
+      </div><div class="faq-item">
+        <h3>Welches Format soll ich für meinen E-Reader nehmen?</h3>
+        <p>KEPUB für Kobo, AZW3 für Kindle und PDF für reMarkable. Wähle dein Gerät in ComicsFit aus. Die App zeigt nur die passenden Formate an und wählt das beste automatisch aus.</p>
+      </div><div class="faq-item">
+        <h3>Kann ich Manga von rechts nach links lesen?</h3>
+        <p>Ja. Aktiviere den Manga-Modus, damit ComicsFit in KEPUB-Dateien für Kobo und AZW3-Dateien für Kindle die Leserichtung von rechts nach links einstellt. So kannst du in der ursprünglichen Leserichtung blättern.</p>
+      </div><div class="faq-item">
+        <h3>Wie viel kleiner werden die Dateien?</h3>
+        <p>Das hängt von der Quelle ab, aber Scans sind oft viel größer als der Bildschirm eines E-Readers. Auf die genaue Bildschirmauflösung verkleinern und neu komprimieren spart oft 50 bis 90 %, ohne sichtbaren Unterschied auf dem Gerät.</p>
+      </div><div class="faq-item">
+        <h3>Werden meine Comics irgendwo hochgeladen?</h3>
+        <p>Nein. ComicsFit ist eine Desktop-App und jede Konvertierung läuft auf deinem Computer. Kein Konto, kein Upload.</p>
+      </div><div class="faq-item">
+        <h3>Was unterscheidet ComicsFit von Kindle Comic Converter (KCC)?</h3>
+        <p>ComicsFit erstellt Kindle-AZW3-Dateien selbst. Du brauchst deshalb nicht Amazons Kindle Previewer mit etwa 1 GB herunterzuladen, um KindleGen zu erhalten. Die native App ist 4 MB groß und hat weniger Einstellungen, die einfacher zu bedienen sind. KCC bietet mehr erweiterte Optionen und ist vollständig kostenlos und Open Source.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section" id="download">
+  <div class="container">
+    <h2>ComicsFit herunterladen</h2>
+    <p>Kostenlos. 4 MB. Kein Konto nötig.</p>
+    <div class="cta-buttons">
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" class="btn-download" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" data-linux-text="↓ Für Linux herunterladen" data-windows data-windows-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-x64.exe" data-windows-text="↓ Für Windows (x64) herunterladen">
+  ↓ Für macOS herunterladen
+</a>
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/comicsfit-linux.flatpak" class="btn-download btn-download-secondary" data-linux data-linux-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" data-linux-text="↓ Für macOS herunterladen">
+        ↓ Für Linux herunterladen
+      </a>
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-x64.exe" class="btn-download btn-download-secondary" data-windows data-windows-href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-macos.dmg" data-windows-text="↓ Für macOS herunterladen">
+        ↓ Für Windows (x64) herunterladen
+      </a>
+    </div>
+    <p class="cta-platforms">
+      Windows auf ARM?
+      <a href="https://github.com/ComicsFit/comicsfit.github.io/releases/latest/download/ComicsFit-windows-arm64.exe" class="inline-link">Für ARM64 herunterladen</a>
+    </p>
+    <p class="cta-platforms" data-linux data-linux-text="Linux GTK4/Adwaita · macOS (Apple Silicon) · Windows 10/11 (x64 und ARM64)" data-windows data-windows-text="Windows 10/11 (x64 und ARM64) · macOS (Apple Silicon) · Linux GTK4/Adwaita">
+      macOS (Apple Silicon) · Linux GTK4/Adwaita · Windows 10/11 (x64 und ARM64)
+    </p>
+    <p class="cta-platforms">
+      Windows braucht die <a href="https://dotnet.microsoft.com/download/dotnet/10.0" class="inline-link">.NET Desktop Runtime 10</a> oder neuer. Fehlt sie, bietet Windows beim Öffnen von ComicsFit an, sie herunterzuladen.
+    </p>
+    <p class="cta-warning" data-linux data-linux-hidden data-windows data-windows-hidden>
+      ⚠️ <strong>macOS-Sicherheitswarnung:</strong> ComicsFit ist noch nicht von Apple notarisiert. Klicke beim ersten Start mit der rechten Maustaste auf die App → <em>Öffnen</em> und dann im Dialog auf <em>Öffnen</em>. Wenn macOS sie blockiert, geh zu <strong>Systemeinstellungen → Datenschutz &amp; Sicherheit</strong> und klicke auf <em>„Dennoch öffnen“</em>. Das musst du nur einmal machen.
+    </p>
+  </div>
+</section>
+
+    </main>
+    <footer>
+  <div class="container">
+    <nav class="footer-nav" aria-label="Fußzeile">
+      <div>
+        <div class="footer-heading">Kindle</div>
+        <ul>
+          <li>
+            <a href="/de/devices/kindle-scribe-colorsoft/">Kindle Scribe Colorsoft</a>
+          </li><li>
+            <a href="/de/devices/kindle-scribe-3/">Kindle Scribe 3</a>
+          </li><li>
+            <a href="/de/devices/kindle-colorsoft/">Kindle Colorsoft</a>
+          </li><li>
+            <a href="/de/devices/kindle-paperwhite-12/">Kindle Paperwhite 12</a>
+          </li><li>
+            <a href="/de/devices/kindle-scribe/">Kindle Scribe 1/2</a>
+          </li><li>
+            <a href="/de/devices/kindle-paperwhite-11/">Kindle Paperwhite 11</a>
+          </li><li>
+            <a href="/de/devices/kindle-11/">Kindle 11</a>
+          </li><li>
+            <a href="/de/devices/kindle-oasis/">Kindle Oasis 9/10</a>
+          </li>
+        </ul>
+      </div><div>
+        <div class="footer-heading">Kobo</div>
+        <ul>
+          <li>
+            <a href="/de/devices/kobo-clara-2e/">Kobo Clara 2E</a>
+          </li><li>
+            <a href="/de/devices/kobo-clara-colour/">Kobo Clara Colour</a>
+          </li><li>
+            <a href="/de/devices/kobo-sage/">Kobo Sage</a>
+          </li><li>
+            <a href="/de/devices/kobo-libra-2/">Kobo Libra 2</a>
+          </li><li>
+            <a href="/de/devices/kobo-libra-colour/">Kobo Libra Colour</a>
+          </li><li>
+            <a href="/de/devices/kobo-elipsa/">Kobo Elipsa</a>
+          </li><li>
+            <a href="/de/devices/kobo-nia/">Kobo Nia</a>
+          </li>
+        </ul>
+      </div><div>
+        <div class="footer-heading">reMarkable</div>
+        <ul>
+          <li>
+            <a href="/de/devices/remarkable-1/">reMarkable 1</a>
+          </li><li>
+            <a href="/de/devices/remarkable-2/">reMarkable 2</a>
+          </li><li>
+            <a href="/de/devices/remarkable-paper-pro/">reMarkable Paper Pro</a>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-heading">ComicsFit</div>
+        <ul>
+          <li><a href="/de/">Start</a></li>
+          <li><a href="/de/devices/">Alle Geräte</a></li>
+          <li><a href="/de/#pricing">Preise</a></li>
+          <li><a href="/de/#faq">FAQ</a></li>
+          <li><a href="/de/#download">Download</a></li>
+          <li><a href="/de/about/">Über ComicsFit</a></li>
+          <li><a href="https://github.com/ComicsFit/comicsfit.github.io/issues">Problem melden</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-heading">Anleitungen</div>
+        <ul>
+          <li><a href="/de/guides/cbz-to-azw3/">CBZ zu AZW3 für Kindle</a></li><li><a href="/de/guides/manga-on-kindle/">Manga auf dem Kindle</a></li><li><a href="/de/guides/cbz-to-kepub/">CBZ zu KEPUB für Kobo</a></li><li><a href="/de/guides/manga-on-kobo/">Manga auf dem Kobo</a></li><li><a href="/de/guides/comics-on-remarkable/">Comics auf dem reMarkable</a></li><li><a href="/de/guides/reduce-cbz-file-size/">CBZ-Dateien verkleinern</a></li><li><a href="/de/guides/cbr-to-cbz/">CBR zu CBZ</a></li>
+          <li>
+            <a href="/de/kindle-comic-converter-alternative/">
+              KCC-Alternative
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="footer-copy">© 2026 ComicsFit</div>
+  </div>
+</footer>
+  </body>
+</html>
